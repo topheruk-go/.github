@@ -11,4 +11,4 @@ Once you have had a look through this profile, you can head to my [main profile]
 |[util](https://github.com/topheruk-go/util)|Common functions|`utility`|
 |[book catalogue](https://github.com/topheruk-go/book-catalogue)|Book catalogue project|`rest`, `postgresql`|
 |[isbn](https://github.com/topheruk-go/isbn)|Isbn implentation|`sql`, `json`|
-|[dsa](https://github.com/topheruk-go/dsa)|Data Structures & Algorithms|`knuth-morris-pratt`,`pattern matching`|
+|[dsa](https://github.com/topheruk-go/dsa)|Data Structures & Algorithms|`knuth-morris-pratt`, `pattern matching`|
